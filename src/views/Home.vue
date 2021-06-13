@@ -74,7 +74,7 @@
                 </router-link>
               </div>
               <div class="mt-3 sm:mt-0 sm:ml-3">
-                <router-link to="/iletisim" >
+                <router-link to="/bizeulasin" >
                  <a class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 md:py-4 md:text-lg md:px-10">
                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
@@ -100,7 +100,7 @@ import { MenuIcon, XIcon } from '@heroicons/vue/outline'
 const navigation = [ 
   { name: 'Anasayfa', href: '/'},
   { name: 'Hakkımızda', href: '/hakkimizda'},
-  { name: 'İletişim', href: '/iletisim'},
+  { name: 'İletişim', href: '/bizeulasin'},
 ]
 
 export default {

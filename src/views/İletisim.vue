@@ -77,7 +77,7 @@ import { MenuIcon, XIcon } from '@heroicons/vue/outline'
 const navigation = [ 
   { name: 'Anasayfa', href: '/'},
   { name: 'Hakkımızda', href: '/hakkimizda'},
-  { name: 'İletişim', href: '/iletisim'},
+  { name: 'İletişim', href: '/bizeulasin'},
 ]
 
 export default {
