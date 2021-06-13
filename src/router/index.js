@@ -9,7 +9,7 @@ const routes = [
   },
   {
     path: '/iletisim',
-    name: 'İletişim',
+    name: 'İletişim', 
     component: Contact
   },
   {
