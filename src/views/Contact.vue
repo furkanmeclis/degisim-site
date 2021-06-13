@@ -66,27 +66,7 @@
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3186.115322972254!2d35.3204124146744!3d37.00704506372967!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15288f3dd7f465b5%3A0x5cb90b90a154fdbf!2zRGXEn2nFn2ltIMOWemVsIMOWxJ9yZXRpbSBLdXJzdQ!5e0!3m2!1str!2str!4v1623581300719!5m2!1str!2str" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
              </p>
              
-            <!-- <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
-              <div class="rounded-md shadow">
-               
-                <router-link to="/hakkimizda" >
-                  <a class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 md:py-4 md:text-lg md:px-10">
-<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
-</svg> &nbsp; Hakkımızda
-                  </a>
-                </router-link>
-              </div>
-              <div class="mt-3 sm:mt-0 sm:ml-3">
-                <router-link to="/iletisim" >
-                 <a class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-blue-700 bg-blue-100 hover:bg-blue-200 md:py-4 md:text-lg md:px-10">
-                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
-</svg> &nbsp; İletişim
-                 </a>
-                </router-link>
-              </div>
-            </div> -->
+            
           </div>
         </main>
       </div>
