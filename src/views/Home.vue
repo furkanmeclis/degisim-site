@@ -95,7 +95,7 @@
 
 <script>
 import { Popover, PopoverButton, PopoverPanel } from '@headlessui/vue'
-import { MenuIcon, XIcon ,EditIcon} from '@heroicons/vue/outline'
+import { MenuIcon, XIcon } from '@heroicons/vue/outline'
 
 const navigation = [ 
   { name: 'Anasayfa', href: '/'},
@@ -112,8 +112,7 @@ export default {
     PopoverButton,
     PopoverPanel,
     MenuIcon,
-    XIcon,
-    EditIcon
+    XIcon
   },
   setup() {
     return {

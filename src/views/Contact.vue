@@ -1,4 +1,4 @@
-<!-- This example requires Tailwind CSS v2.0+ -->
+
 <template>
   <div class="relative bg-white overflow-hidden">
     <div class="max-w-7xl mx-auto">
